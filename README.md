@@ -1,9 +1,13 @@
-estudante de Ciência de Dados e Inteligência Artificial na PUC-Campinas
+### Gabriel Sorge de Almeida
 
-Foco em:
-- Engenharia de Dados
-- Python para análise de dados
+Estudante de Ciência de Dados e IA na PUC-Campinas, focado em Engenharia de Dados.
+
+**Trabalhando com:**
+- Python (dados)
 - SQL
-- Inteligência Artificial
+- ETL e pipelines
+- Integração com banco de dados
 
-Projetos em desenvolvimento utilizando dados reais.
+📌 Projeto em destaque: [Brasileirão Analytics](link-do-repo) — análise de dados do futebol brasileiro, do dado bruto ao insight.
+
+🔧 Construindo portfólio com projetos reais, não tutoriais.
