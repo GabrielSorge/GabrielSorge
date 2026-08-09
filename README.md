@@ -8,6 +8,5 @@ Estudante de Ciência de Dados e IA na PUC-Campinas, focado em Engenharia de Dad
 - ETL e pipelines
 - Integração com banco de dados
 
-📌 Projeto em destaque: [Brasileirão Analytics](link-do-repo) — análise de dados do futebol brasileiro, do dado bruto ao insight.
+📌 Projeto em destaque: 
 
-🔧 Construindo portfólio com projetos reais, não tutoriais.
